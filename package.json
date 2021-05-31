@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "node-cron": "^3.0.0"
+  }
+}
